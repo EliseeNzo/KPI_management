@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "KPI_Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node backend/index.js"
+  },
+  "author": "Elisée & Maxime",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
